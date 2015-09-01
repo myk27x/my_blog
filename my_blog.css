@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/8/81/Man_flying_kite.jpg);
+    background-size: cover;
+    background-color: #000000;
+  }
+
+
+
+p {
+  text-indent: 25px
+}
+
+.bigred {
+  color: blue;
+  font-size: 5em;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4, h4 {
+  text-align: right;
+}
